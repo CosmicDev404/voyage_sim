@@ -153,7 +153,7 @@ int main() {
             "2.  Intern\n"
             "3.  Head Pilot\n"
             "4   Mission Controller\n\n";
-            //cout << "5.  Planet Diver\n\n"; //legacy!
+            //cout << "5.  Planet Diver\n\n";!
         
         choice = get_number();
 
@@ -172,4 +172,5 @@ int main() {
     } while (runner != 'n' && runner != 'N');
 
     return 0;
+
 }
