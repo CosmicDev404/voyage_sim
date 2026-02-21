@@ -30,7 +30,7 @@ Voyage can be used as:
 
 ### Windows
 - Download all files into the same folder.
-- Run: Voyage.exe
+- Run: `Voyage.exe`
 
 ---
 
@@ -40,7 +40,7 @@ command:
 g++ -std=c++17 -Wall -Wextra main.cpp -o voyage
 ```
 
-- Run: ./voyage
+- Then run: `./voyage`
 
 
 ---
