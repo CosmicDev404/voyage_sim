@@ -49,7 +49,7 @@ g++ -std=c++17 -Wall -Wextra main.cpp -o voyage
 
 - `main.cpp` — Simulation application logic  
 - `engine.h` — General-purpose physics engine library  
-- `Voyage.exe` — Precompiled Windows executable  
+- `voyage.exe` — Precompiled Windows executable  
 
 ---
 
