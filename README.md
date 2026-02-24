@@ -68,8 +68,3 @@ g++ -std=c++17 -Wall -Wextra main.cpp -o voyage
 - Advanced racing mechanics
 - Expanded physics environments
 
----
-
-## 👨‍💻 Author
-
-Developed by **Agrim Sharma (CosmicDev404)**  
